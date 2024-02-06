@@ -19,7 +19,7 @@
       "scope": "variable",
       "settings": {
         "fontStyle": "",
-        "foreground": "#6b9cbd"
+        "foreground": "#969b57"
       }
     },
     {
@@ -197,7 +197,7 @@
       "scope": ["support.class", "support.type"],
       "settings": {
         "fontStyle": "",
-        "foreground": "#ffd700"
+        "foreground": "#e0c737"
       }
     },
     {
